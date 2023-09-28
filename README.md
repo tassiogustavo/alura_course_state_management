@@ -1,16 +1,16 @@
-# alura_flutter_state_management
+# Gerenciamento de Estado com Provider - Projeto Alura
 
-A new Flutter project.
+## Imagem do Projeto
+![alura_flutter_state_management](https://github.com/tassiogustavo/alura_course_state_management/assets/70405308/d555db58-4d27-4b02-8381-a9f6fb204c1a)
 
-## Getting Started
+Este projeto foi desenvolvido como parte do curso da Alura "Gerenciamento de Estado com Provider", que faz parte da formação de Flutter. O objetivo deste projeto é demonstrar o uso eficaz do Provider, uma biblioteca de gerenciamento de estado amplamente utilizada em aplicativos Flutter.
 
-This project is a starting point for a Flutter application.
+## Descrição do Projeto
 
-A few resources to get you started if this is your first Flutter project:
+O projeto tem como objetivo criar um aplicativo de exemplo que utiliza o Provider para gerenciar o estado da aplicação de forma eficiente e escalável. O aplicativo pode ser usado como um modelo para implementar o Provider em seus próprios projetos Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologias Utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Provider
